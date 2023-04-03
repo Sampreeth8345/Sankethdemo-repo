@@ -3,4 +3,5 @@ Encha ullar
 Namaskara
 Solmelu
 Dhanyavadh
-x=2
+Stashing Area
+X=2
