@@ -4,4 +4,4 @@ Namaskara
 Solmelu
 Dhanyavadh
 Stashing Area
-x=1
+X=2
